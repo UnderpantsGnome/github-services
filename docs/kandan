@@ -1,0 +1,9 @@
+Kandan
+======
+
+Install Notes
+-------------
+
+  1. **url** should be the URL where you mounted the endpoint (http://example.com/endpoints/github)
+  2. **token** should be the authentication_token of the user that you want to use to post messages - you can setup a user just for this purpose or use the Hubot user.
+  3. **room** is the room name you want the messages to go into.
